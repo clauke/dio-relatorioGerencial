@@ -1,4 +1,4 @@
-🚀 Desafio DIO - Criando Um Relatório Gerencial de Vendas com Power BI
+# 🚀 Desafio DIO - Criando Um Relatório Gerencial de Vendas com Power BI
 
 Este projeto refere-se ao Desafio da **[Digital Innovation One (DIO)](https://web.dio.me/home)**
 no módulo de *Visualização de Dados e Relatórios com Power BI*, que consiste em replicar a página construída pela instrutora e criar a segunda página conforme exemplificado, utilizando a base de dados `sample financials`.
